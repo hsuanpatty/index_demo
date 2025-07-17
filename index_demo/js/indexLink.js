@@ -14,7 +14,7 @@
         items: 2
       },
       500: {
-        items: 4
+        items: 3
       },
       576: {
         items: 3,
