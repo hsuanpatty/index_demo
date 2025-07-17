@@ -4,7 +4,7 @@
 
 .link-box {
     background-color: #f6f6f6;
-    border: 1px solid #e7e7e7;
+    border: 1px solid #f6f6f6;
     background-clip: padding-box;
     padding: 20px;
     border-radius: 10px;
@@ -21,7 +21,7 @@
 
 .link-box-2 {
     background-color: #f6f6f6;
-    border: 1px solid #e7e7e7;
+    border: 1px solid #f6f6f6;
     padding: 20px;
     border-radius: 10px;
 
@@ -38,10 +38,8 @@
 
 .link-box:hover,
 .link-box-2:hover {
-    /* background-color: #faf3e8; */
-    /* border: 1px solid #dac39f; */
-    background-color: #ffffff;
-      border: 1px solid #e7e7e7;
+    background-color: #f6f6f6;
+    border: 1px solid #b9b9b9;
 }
 
 
