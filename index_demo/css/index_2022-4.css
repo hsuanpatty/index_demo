@@ -2394,7 +2394,7 @@ h3.main-title i {
 
 @media (max-width: 991.98px) { 
     ul.Brand-tab {
-        width: 800px;
+        width: 100%;
     }
 }
 
@@ -2592,7 +2592,7 @@ h3.main-title i {
 
     ul.Brand-tab {
         margin: 0;
-        width: 600px;
+        width: 100%;
     }
 
     .Brand-tab-hidden {
@@ -2817,9 +2817,6 @@ h3.main-title i {
     .searchBox-date {
         width: 100%;
     }
-    ul.Brand-tab {
-        width: 430px
-    }
 
     .searchBox-date {
         margin-top: 10px;
@@ -2866,5 +2863,11 @@ h3.main-title i {
 
     figure.Brand-box p {
         height: 35px;
+    }
+}
+
+@media (max-width: 490px) { 
+    ul.Brand-tab {
+        width: 430px
     }
 }
