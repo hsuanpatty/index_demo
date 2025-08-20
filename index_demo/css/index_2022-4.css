@@ -2392,6 +2392,12 @@ h3.main-title i {
     width: 35px;
 }
 
+@media (max-width: 991.98px) { 
+    ul.Brand-tab {
+        width: 800px;
+    }
+}
+
 @media (max-width: 768px) {
     /* Taiwan */
     figure.Taiwan-box {
