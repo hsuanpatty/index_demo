@@ -2507,11 +2507,11 @@ h3.main-title i {
     }
     /* Search */
     .searchBox-area {
-        width: 100%;
+        width: 45%;
     }
 
     .searchBox-date {
-        width: 100%;
+        width: 55%;
     }
 
     .searchBox-keyword {
@@ -2807,15 +2807,13 @@ h3.main-title i {
 }
 
 @media (max-width: 576px) {
-/*    .searchBox-area,
+    .searchBox-area,
     .searchBox-date {
         width: 100%;
-    }*/
-
-     ul.Brand-tab {
-        width: 430px;
     }
-
+    ul.Brand-tab {
+        width: 430px
+    }
 
     .searchBox-date {
         margin-top: 10px;
