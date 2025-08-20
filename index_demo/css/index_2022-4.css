@@ -752,7 +752,7 @@ ul.PopularCountry-tab li.active::after {
 .Taiwan-tab li::after {
     content: "";
     position: absolute;
-    top: 34px;
+    top: 36px;
     left: 0;
     width: 100%;
     border-bottom: #8c001a 5px solid;
